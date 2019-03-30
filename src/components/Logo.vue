@@ -26,38 +26,26 @@
         name: "Logo",
         data () {
             return {
-                title: 'Amin Zabardast',
+                title: 'Mina Moghaddam',
                 smallMsg: 'This is empty for now but the wheels are in motion',
                 links: [
                     {
                         order: 5,
                         icon: ['fas', 'envelope'],
-                        tooltip: 'zabardast.amin@metu.edu.tr',
-                        href: 'mailto:zabardast.amin@metu.edu.tr'
+                        tooltip: 'mina.moghaddam90@gmail.com',
+                        href: 'mailto:mina.moghaddam90@gmail.com'
                     },
                     {
                         order: 1,
                         icon: ['fab', 'github'],
-                        tooltip: '/AminZabardast',
-                        href: 'http://github.com/AminZabardast'
-                    },
-                    {
-                        order: 2,
-                        icon: ['fab', 'linkedin'],
-                        tooltip: '/AminZabardast',
-                        href: 'http://linkedin.com/in/AminZabardast'
-                    },
-                    {
-                        order: 3,
-                        icon: ['fab', 'twitter'],
-                        tooltip: '@AminZabardast',
-                        href: 'http://twitter.com/AminZabardast'
+                        tooltip: '/MinaMoghaddam',
+                        href: 'http://github.com/MinaMoghaddam'
                     },
                     {
                         order: 4,
                         icon: ['fab', 'instagram'],
-                        tooltip: '@AminZabardast',
-                        href: 'http://instagram.com/AminZabardast'
+                        tooltip: '@mina.moghaddam90',
+                        href: 'http://instagram.com/mina.moghaddam90'
                     }
                 ]
             }
